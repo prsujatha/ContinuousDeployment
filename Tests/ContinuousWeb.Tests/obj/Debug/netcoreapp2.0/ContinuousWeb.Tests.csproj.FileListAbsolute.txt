@@ -1,0 +1,16 @@
+C:\Users\pbhogasa\Documents\AzureAppServiceConfiguration\ContinuousDeployment\Tests\ContinuousWeb.Tests\bin\Debug\netcoreapp2.0\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\pbhogasa\Documents\AzureAppServiceConfiguration\ContinuousDeployment\Tests\ContinuousWeb.Tests\bin\Debug\netcoreapp2.0\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\pbhogasa\Documents\AzureAppServiceConfiguration\ContinuousDeployment\Tests\ContinuousWeb.Tests\bin\Debug\netcoreapp2.0\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\pbhogasa\Documents\AzureAppServiceConfiguration\ContinuousDeployment\Tests\ContinuousWeb.Tests\bin\Debug\netcoreapp2.0\ContinuousWeb.Tests.deps.json
+C:\Users\pbhogasa\Documents\AzureAppServiceConfiguration\ContinuousDeployment\Tests\ContinuousWeb.Tests\bin\Debug\netcoreapp2.0\ContinuousWeb.Tests.runtimeconfig.json
+C:\Users\pbhogasa\Documents\AzureAppServiceConfiguration\ContinuousDeployment\Tests\ContinuousWeb.Tests\bin\Debug\netcoreapp2.0\ContinuousWeb.Tests.runtimeconfig.dev.json
+C:\Users\pbhogasa\Documents\AzureAppServiceConfiguration\ContinuousDeployment\Tests\ContinuousWeb.Tests\bin\Debug\netcoreapp2.0\ContinuousWeb.Tests.dll
+C:\Users\pbhogasa\Documents\AzureAppServiceConfiguration\ContinuousDeployment\Tests\ContinuousWeb.Tests\bin\Debug\netcoreapp2.0\ContinuousWeb.Tests.pdb
+C:\Users\pbhogasa\Documents\AzureAppServiceConfiguration\ContinuousDeployment\Tests\ContinuousWeb.Tests\bin\Debug\netcoreapp2.0\ContinuousWeb.dll
+C:\Users\pbhogasa\Documents\AzureAppServiceConfiguration\ContinuousDeployment\Tests\ContinuousWeb.Tests\bin\Debug\netcoreapp2.0\ContinuousWeb.pdb
+C:\Users\pbhogasa\Documents\AzureAppServiceConfiguration\ContinuousDeployment\Tests\ContinuousWeb.Tests\obj\Debug\netcoreapp2.0\ContinuousWeb.Tests.csproj.CoreCompileInputs.cache
+C:\Users\pbhogasa\Documents\AzureAppServiceConfiguration\ContinuousDeployment\Tests\ContinuousWeb.Tests\obj\Debug\netcoreapp2.0\ContinuousWeb.Tests.AssemblyInfoInputs.cache
+C:\Users\pbhogasa\Documents\AzureAppServiceConfiguration\ContinuousDeployment\Tests\ContinuousWeb.Tests\obj\Debug\netcoreapp2.0\ContinuousWeb.Tests.AssemblyInfo.cs
+C:\Users\pbhogasa\Documents\AzureAppServiceConfiguration\ContinuousDeployment\Tests\ContinuousWeb.Tests\obj\Debug\netcoreapp2.0\ContinuousWeb.Tests.csproj.CopyComplete
+C:\Users\pbhogasa\Documents\AzureAppServiceConfiguration\ContinuousDeployment\Tests\ContinuousWeb.Tests\obj\Debug\netcoreapp2.0\ContinuousWeb.Tests.dll
+C:\Users\pbhogasa\Documents\AzureAppServiceConfiguration\ContinuousDeployment\Tests\ContinuousWeb.Tests\obj\Debug\netcoreapp2.0\ContinuousWeb.Tests.pdb

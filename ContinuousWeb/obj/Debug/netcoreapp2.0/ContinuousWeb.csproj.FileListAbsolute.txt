@@ -1,0 +1,10 @@
+C:\Users\pbhogasa\Documents\AzureAppServiceConfiguration\ContinuousDeployment\ContinuousWeb\bin\Debug\netcoreapp2.0\ContinuousWeb.deps.json
+C:\Users\pbhogasa\Documents\AzureAppServiceConfiguration\ContinuousDeployment\ContinuousWeb\bin\Debug\netcoreapp2.0\ContinuousWeb.runtimeconfig.json
+C:\Users\pbhogasa\Documents\AzureAppServiceConfiguration\ContinuousDeployment\ContinuousWeb\bin\Debug\netcoreapp2.0\ContinuousWeb.runtimeconfig.dev.json
+C:\Users\pbhogasa\Documents\AzureAppServiceConfiguration\ContinuousDeployment\ContinuousWeb\bin\Debug\netcoreapp2.0\ContinuousWeb.dll
+C:\Users\pbhogasa\Documents\AzureAppServiceConfiguration\ContinuousDeployment\ContinuousWeb\bin\Debug\netcoreapp2.0\ContinuousWeb.pdb
+C:\Users\pbhogasa\Documents\AzureAppServiceConfiguration\ContinuousDeployment\ContinuousWeb\obj\Debug\netcoreapp2.0\ContinuousWeb.csproj.CoreCompileInputs.cache
+C:\Users\pbhogasa\Documents\AzureAppServiceConfiguration\ContinuousDeployment\ContinuousWeb\obj\Debug\netcoreapp2.0\ContinuousWeb.AssemblyInfoInputs.cache
+C:\Users\pbhogasa\Documents\AzureAppServiceConfiguration\ContinuousDeployment\ContinuousWeb\obj\Debug\netcoreapp2.0\ContinuousWeb.AssemblyInfo.cs
+C:\Users\pbhogasa\Documents\AzureAppServiceConfiguration\ContinuousDeployment\ContinuousWeb\obj\Debug\netcoreapp2.0\ContinuousWeb.dll
+C:\Users\pbhogasa\Documents\AzureAppServiceConfiguration\ContinuousDeployment\ContinuousWeb\obj\Debug\netcoreapp2.0\ContinuousWeb.pdb
